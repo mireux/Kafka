@@ -28,4 +28,5 @@ spring:
 com:
   es:
     enabled: true
-    host: 118.31.112.195:9200
+    host: 118.31.112.195
+    port: 9200
